@@ -1,0 +1,2 @@
+# aws-certified-security-specialty
+
