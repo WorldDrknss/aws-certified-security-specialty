@@ -4,7 +4,7 @@
 # My Objective
 This is my personal `study guide` for the examination and keep track of my progress.
 1. [Course Fundamentals](Course%20Fundamentals)
-2. Tech Fundamentals
+2. [Tech Fundamentals](Tech%20Fundamentals)
 3. Identity and Access Management
 4. Infrastructure Security
 5. Logging and Monitoring
