@@ -3,7 +3,7 @@
 
 # My Objective
 This is my personal `study guide` for the examination and keep track of my progress.
-
+1. [Course Fundamentals](Course%20Fundamentals)
 # What is AWS Certified Security Specialty
 AWS Certified Security – Specialty is intended for individuals who perform a security role and have at least two years of hands-on experience securing AWS workloads. Before you take this exam, we recommend you have:
 
