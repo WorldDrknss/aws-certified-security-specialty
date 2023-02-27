@@ -50,3 +50,17 @@ NET End:
 ![Route Table](../images/routetables.png)
 
 # Address Resolution Protocol (ARP)
+![ARP](../images/arp.PNG)
+
+# L3 IP Routing
+![IP Routing](../images/l3iprouting.PNG)
+
+# Summary
+* IP Address (IPv4/v6) - cross network addressing
+* ARP - Find the MAC address, for this IP
+* Route - where to foward this packet
+* Route Table - Multiple Routes
+* Router - moves packets from `SRC` to `DST` - Encapsulating in L2 on the way.
+* Device <=> Device Communications over the internet.
+* No method for channels of communcations..SRC IP <=> DST IP Only.
+* Can be delivered out of order.
