@@ -12,6 +12,7 @@
 
 # `Static` Network Address Translation
 ![Static](../images/staticnat.png)
+
 *In `AWS` this is how the Internet Gateway (IGW) Functions*
 
 # `Dynamic` Network Address Translation
@@ -19,4 +20,5 @@
 
 # Port Address Translation (`PAT`)
 ![PAT](../images/patnat.png)
+
 *In `AWS` this is how the NAT Gateway (NATGW) Functions*
