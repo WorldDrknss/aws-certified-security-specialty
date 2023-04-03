@@ -32,3 +32,6 @@
 ## IPv4 Address Space
 * IPv4 4,294,967,296
 * IPv6 340,282,366,920,938,463,374,607,431,770,000,000
+
+![Subnetting](../images/subnetting.PNG)
+![Extended](../images/subnettingpt2.PNG)
